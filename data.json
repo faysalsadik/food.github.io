@@ -1,7 +1,38 @@
-{  
-    "employee": {  
-        "name":       "sonoo",   
-        "salary":      56000,   
-        "married":    true  
-    }  
-}  
+{
+"pnd_name": "Dost 👦",
+"pnd_delivery_charge_type": "DYNAMIC",
+"pnd_fixed_delivery_charge": "25",
+"pnd_base_delivery_charge": "10",
+"pnd_base_delivery_distance": "1",
+"pnd_extra_delivery_charge": "5",
+"pnd_extra_delivery_distance": "1",
+"pnd_tasks": [
+{
+"name": "Task 1",
+"icon": "ri-layout-grid-line"
+},
+{
+"name": "Task 2",
+"icon": "ri-layout-grid-line"
+},
+{
+"name": "Task 3",
+"icon": "ri-layout-grid-line"
+}
+],
+"pnd_custom_html_one": "<p>Test Info</p>",
+"pnd_custom_html_two": "<p>Test info 2</p>",
+"pnd_custom_html_three": "<p>Test info 3</p>",
+"slider_images": [
+{
+"id": 1,
+"name": "1",
+"image": "https://foodomaa.sgp1.cdn.digitaloceanspaces.com/nearby/primary-slider/ac41f79f-b364-46a8-ac82-fd117730235d.webp",
+"link": "https://lobstar.cloudify.store/",
+"order_column": null,
+"is_active": 1,
+"created_at": "2023-03-17T12:50:43.000000Z",
+"updated_at": "2023-03-17T12:50:43.000000Z"
+}
+]
+}
