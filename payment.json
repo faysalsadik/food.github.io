@@ -1,0 +1,10 @@
+{
+  "cartToPayText": "To Pay",
+  "cartToPayAmount": "BDT10",
+  "checkoutPaymentListTitle": "Select your prefered payment method",
+  "walletName": "Wallet",
+  "payFullWithWalletText": "Pay full amount with Wallet.",
+  "willbeDeductedText": "will be deducted from your balance of",
+  "checkoutCodText": "COD",
+  "checkoutCodSubText": "Cash On Delivery"
+}
