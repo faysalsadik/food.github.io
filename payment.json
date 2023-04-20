@@ -6,5 +6,6 @@
   "payFullWithWalletText": "Pay full amount with Wallet.",
   "willbeDeductedText": "will be deducted from your balance of",
   "checkoutCodText": "COD",
-  "checkoutCodSubText": "Cash On Delivery"
+  "checkoutCodSubText": "Cash On Delivery",
+  "walletBalance": "320"
 }
